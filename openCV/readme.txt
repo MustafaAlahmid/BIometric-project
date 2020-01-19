@@ -1,0 +1,2 @@
+the train file contain the code for train and test the model with different threshold 
+threshold:In simple thresholding operation in openCV the pixels whose values are greater than the specified threshold value, are assigned with a standard value.
