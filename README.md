@@ -1,7 +1,7 @@
 # BIometric-project
  
 ## each folder has a readme file 
-
+# the dataset : https://www.kaggle.com/mustafa21/celebrities-pictures-dataset
 
 # references:
 https://sites.google.com/a/di.uniroma1.it/biometric-systems/home/course-material​
